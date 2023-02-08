@@ -22,7 +22,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashjain072&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ My Motivation
+### ✍️ Random Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
