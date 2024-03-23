@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yash Jain</h1>
-<h3 align="center">A passionate Software Development Engineer from India</h3>
+<h3 align="center">A passionate Systems Engineer in Tata Consultancy Services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjain072&label=Profile%20views&color=0e75b6&style=flat" alt="yashjain072" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on a Flutter Android Application using Dart Language.<br>💻 Competitive Programmer<br>👨🏾‍💻 AI/ML Enthusiast<br> 🎖 Google Cloud Certified<br>🦾 Hustler<br>📫 How to reach me jain.yash9424@gmail.com
+🔭 I’m currently working as an API developer in a TCS BaNCS project using Springboot.<br>🏆 GATE CSE(2023) Qualified <br>💻 Competitive Programmer<br>👨🏾‍💻 AI/ML Enthusiast<br> 🎖 Google Cloud Certified<br>🦾 Hustler<br>📫 How to reach me jain.yash9424@gmail.com
 
 
 ## 🌐 Socials:
